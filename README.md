@@ -1,6 +1,7 @@
 # Nepal Election 2082 — Auto-Poster Bot
 
 An automated bot that scrapes live election results from **ekantipur.com**, generates stylized **1080×1080 Instagram images** for each constituency, and posts them to **Instagram** (and optionally **Telegram**) every 90 minutes.
+>  **See it live:** [election.2082_np](https://www.instagram.com/election.2082_np/)
 
 ---
 
